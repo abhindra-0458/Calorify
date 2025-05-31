@@ -1,0 +1,4 @@
+**/node_modules/
+**/__pycache__/
+main/logs/
+**h5
